@@ -14,5 +14,5 @@ We have commpleted the test task. We have added 4 screens as below :-
 - We have follow the MVVM architecture.
 - We have not used any third party library in this test task.
 
-  # Find updated video of this task from below link :-
-  - https://drive.google.com/file/d/18S-3KXaJ0EnIFk_hDJ-afpre74zGZtih/view
+# Find updated video of this task from below link :-
+- https://drive.google.com/file/d/18S-3KXaJ0EnIFk_hDJ-afpre74zGZtih/view
