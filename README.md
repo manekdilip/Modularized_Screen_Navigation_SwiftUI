@@ -6,7 +6,7 @@ We have commpleted the test task. We have added 4 screens as below :-
 3) OTP
 4) User Listing
    
-# Task we have done in this screens are as below :-
+# Update :-
 - Added simplete validation for login and registration screen.
 - Add 30 second timer in OTP screen and user can resend OTP after 30 seconds only.
 - Once user logged in successfully with correct email and password, user will redirect to user listing screen.
